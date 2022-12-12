@@ -6,7 +6,7 @@ Mobile             |  Desktop
 
 > Projeto de estudo inspirado no Tinder, responsivo tanto para dispositivos mobiles e desktops.
 
-[Clique aqui para acessar](https://matheus-santos01.github.io/Tinder-clone/)
+[Clique aqui para acessar](https://tinder-clone-amber.vercel.app/)
 
 ## 🛠️ Tecnologias
 - HTML 
